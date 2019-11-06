@@ -22,7 +22,7 @@ import android.net.Uri;
 import android.os.Parcel;
 import android.os.Parcelable;
 
-import androidx.annotation.Nullable;
+import android.support.annotation.Nullable;
 
 import com.zhihu.matisse.R;
 import com.zhihu.matisse.internal.loader.AlbumLoader;
